@@ -1,0 +1,3 @@
+All Business Logics in services
+All Config Logics in config services
+All Error Handling & other Common functions in sServices.ts
