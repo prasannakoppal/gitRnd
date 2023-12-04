@@ -13,6 +13,7 @@ git pull
 
 ## Commit
 
+<div style="margin-right: 30px;">
 ### Add
 ```bash
 git add fileName 
@@ -21,6 +22,7 @@ git add fileName
 ```bash
 git add *
 ```
+</div>
 
 ### Commit
 
