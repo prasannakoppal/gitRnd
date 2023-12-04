@@ -1,6 +1,29 @@
 # gitRnd
 This is an testing GIT Repository
 
-# git clone
+## Clone
+```bash
+git clone gitRepoURL
+```
 
-git clone URL
+## Pull
+```bash
+git pull
+```
+
+## Commit
+
+### Add
+```bash
+git add fileName 
+```
+
+```bash
+git add *
+```
+
+### Commit
+
+
+
+## Switch
