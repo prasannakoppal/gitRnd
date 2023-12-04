@@ -13,7 +13,7 @@ git pull
 
 ## Commit
 
-<div style="margin-left: 30px;">
+
 
 ### Add
 ```bash
@@ -23,10 +23,17 @@ git add fileName
 ```bash
 git add *
 ```
-</div>
+
 
 ### Commit
+```bash
+git commit -m "informative message about the commit"
+```
 
+## Revert back in commits
+
+### Hard Reset: Reset all changes
+git reset --hard
 
 
 ## Switch
