@@ -11,10 +11,12 @@ git clone gitRepoURL
 git pull
 ```
 
+## Status
+```bash
+git status
+```
+
 ## Commit
-
-
-
 ### Add
 ```bash
 git add fileName 
@@ -33,7 +35,9 @@ git commit -m "informative message about the commit"
 ## Revert back in commits
 
 ### Hard Reset: Reset all changes
+```bash
 git reset --hard
+```
 
 
 ## Switch
