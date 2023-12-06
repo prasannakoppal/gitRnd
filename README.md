@@ -34,10 +34,29 @@ git commit -m "informative message about the commit"
 
 ## Revert back in commits
 
-### Hard Reset: Reset all changes
+## Hard Reset: Reset all changes
 ```bash
 git reset --hard
 ```
 
+## Checkout Branch
+```bash
+git checkout -b childBranchName ParentBranchName
+```
+
+```bash
+git checkout -b feature/123/issue-show-2-proponent dev
+git checkout -b issue/256/issue-bug dev
+```
+
+
+## Checkout File 
+```bash
+git checkout HEAD -- fileName
+```
+
 
 ## Switch
+```bash
+
+```
