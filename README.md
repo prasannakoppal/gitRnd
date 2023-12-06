@@ -39,23 +39,32 @@ git commit -m "informative message about the commit"
 git reset --hard
 ```
 
-#Branch
+# Branch
 
 ## Branch List
 ```bash
 git branch
 ```
 
-## Checkout Branch
+## Checkout Branch (Create New Branch)
 ```bash
 git checkout -b childBranchName ParentBranchName
 ```
-
+###Eg
 ```bash
 git checkout -b feature/123/issue-show-2-proponent dev
 git checkout -b issue/256/issue-bug dev
 ```
 
+## Switch Branch 
+```bash
+git checkout branchName
+```
+
+## Merge Branch 
+```bash
+git merge feature/123/issue-show-2-proponent
+```
 
 ## Checkout File 
 ```bash
