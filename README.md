@@ -59,6 +59,10 @@ git checkout -b issue/256/issue-bug dev
 ```bash
 git checkout branchName
 ```
+## Rebase Branch 
+```bash
+git rebase parentBranch
+```
 
 ## Merge Branch 
 ```bash
