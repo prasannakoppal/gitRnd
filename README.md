@@ -82,5 +82,5 @@ git checkout HEAD -- fileName
 
 ## Switch
 ```bash
-git
+git fromMaster
 ```
