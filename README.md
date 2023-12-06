@@ -39,6 +39,13 @@ git commit -m "informative message about the commit"
 git reset --hard
 ```
 
+#Branch
+
+## Branch List
+```bash
+git branch
+```
+
 ## Checkout Branch
 ```bash
 git checkout -b childBranchName ParentBranchName
