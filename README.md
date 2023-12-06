@@ -62,6 +62,10 @@ git checkout branchName
 
 ## Merge Branch 
 ```bash
+git merge childBranchName
+```
+#### Eg
+```bash
 git merge feature/123/issue-show-2-proponent
 ```
 
