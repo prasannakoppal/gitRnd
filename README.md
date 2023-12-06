@@ -26,7 +26,6 @@ git add fileName
 git add *
 ```
 
-
 ### Commit
 ```bash
 git commit -m "informative message about the commit"
@@ -66,6 +65,11 @@ git checkout branchName
 git merge feature/123/issue-show-2-proponent
 ```
 
+## Delete Branch
+```bash
+git branch -d source-branch
+```
+
 ## Checkout File 
 ```bash
 git checkout HEAD -- fileName
@@ -74,5 +78,5 @@ git checkout HEAD -- fileName
 
 ## Switch
 ```bash
-
+git
 ```
