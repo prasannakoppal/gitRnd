@@ -1,7 +1,7 @@
 # gitRnd
 This is an testing GIT Repository
 
-## Clone
+## * Clone **************************
 ```bash
 git clone gitRepoURL
 ```
