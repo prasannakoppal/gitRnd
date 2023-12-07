@@ -6,6 +6,15 @@ This is an testing GIT Repository
 git clone gitRepoURL
 ```
 
+## Clone Specific Branch
+```bash
+git clone -b branchName origin/gitRnd.git
+```
+#### Eg
+```bash
+git clone -b branchName https://github.com/prasannakoppal/gitRnd.git
+```
+
 ## Pull
 ```bash
 git pull
