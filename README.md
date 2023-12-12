@@ -1,9 +1,18 @@
 # gitRnd
 This is an testing GIT Repository
 
-## Clone
+## * Clone **************************
 ```bash
 git clone gitRepoURL
+```
+
+## Clone Specific Branch
+```bash
+git clone -b branchName origin/gitRnd.git
+```
+#### Eg
+```bash
+git clone -b branchName https://github.com/prasannakoppal/gitRnd.git
 ```
 
 ## Pull
