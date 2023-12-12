@@ -87,6 +87,11 @@ git merge feature/123/issue-show-2-proponent
 git branch -d source-branch
 ```
 
+## Push Branch to Remote (Cloud)
+```bash
+git push origin featureBranchName:featureBranchName
+```
+
 ## Checkout File 
 ```bash
 git checkout HEAD -- fileName
@@ -96,4 +101,8 @@ git checkout HEAD -- fileName
 ## Switch
 ```bash
 git fromMaster
+```
+
+```bash
+git remote -v
 ```
